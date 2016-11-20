@@ -11,6 +11,7 @@ A basic ASP.NET Core web server using Kestrel
 ### Instructions
 
 Run the following commands:
+
 1. `git clone https://github.com/Mandosis/learn_dotnet_basic_server`
 2. `cd learn_dotenet_basic_server`
 3. `dotnet restore`
