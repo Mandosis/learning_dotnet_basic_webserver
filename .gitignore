@@ -1,0 +1,10 @@
+# IDE Files
+.idea
+.vscode
+
+# Generated Files
+bin
+obj
+*.sln
+*.xproj
+*.lock.json
